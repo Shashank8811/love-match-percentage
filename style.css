@@ -111,7 +111,7 @@ span {
 
 @media (max-width: 380px) {
   .form {
-    width: 80%;
+    width: 85%;
   }
 }
 
@@ -124,8 +124,5 @@ span {
 @media (max-width: 280px) {
   .form {
     width: 95%;
-  }
-  .primary-heading {
-    font-size: 24px;
   }
 }
