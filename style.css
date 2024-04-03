@@ -95,8 +95,21 @@ span {
 }
 
 @media (max-width: 480px) {
+  .container {
+    padding: 10px;
+    gap: 20px;
+  }
+  label {
+    font-size: 18px;
+  }
+  input {
+    padding: 10px 14px;
+  }
+  span {
+    font-size: 16px;
+  }
   .form {
-    width: 70%;
+    width: 75%;
   }
 }
 
@@ -105,7 +118,7 @@ span {
     height: 100vh;
   }
   .form {
-    width: 70%;
+    width: 80%;
   }
 }
 
