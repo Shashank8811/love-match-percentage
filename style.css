@@ -93,6 +93,13 @@ span {
     height: 100vh;
   }
 }
+
+@media (max-width: 480px) {
+  .form {
+    width: 70%;
+  }
+}
+
 @media (max-width: 430px) {
   .container {
     height: 100vh;
