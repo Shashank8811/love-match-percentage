@@ -87,3 +87,29 @@ span {
     opacity: 1;
   }
 }
+
+@media (max-width: 1200px) {
+  .container {
+    height: 100vh;
+  }
+}
+@media (max-width: 430px) {
+  .container {
+    height: 100vh;
+  }
+  .form {
+    width: 70%;
+  }
+}
+
+@media (max-width: 380px) {
+  .form {
+    width: 80%;
+  }
+}
+
+@media (max-width: 326px) {
+  .form {
+    width: 90%;
+  }
+}
